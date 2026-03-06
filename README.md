@@ -20,13 +20,13 @@
   </a>
 
   <!-- Telefon (WhatsApp ikon) -->
-  <a href="tel:+46739098804" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" 
-      width="40" height="30" 
-      alt="Phone" 
-    />
-  </a>
+<a href="https://wa.me/46739098804" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" 
+    width="40" height="30" 
+    alt="WhatsApp" 
+  />
+</a>
 
   <!-- Discord -->
   <a href="https://discord.com/users/bat.ool" target="_blank">
