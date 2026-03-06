@@ -8,21 +8,22 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" width="45" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=sv#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:batoolfahmi@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
   <a href="https://www.instagram.com/b4h.mi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
   </a>
   <a href="https://account.microsoft.com/profile/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://skillicons.dev/icons?i=microsoft" width="45" />
   </a>
 </div>
+
 
 ###
 
