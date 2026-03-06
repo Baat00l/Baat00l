@@ -6,6 +6,12 @@
 
 ###
 
+<h2 align="left">🌐 Socials:</h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/b4h.mi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/batoolfahmi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batoolfahmi4@gmail.com) 
+
+###
+
 <h2 align="left">🎓 Education & Professional Focus</h2>
 
 ###
