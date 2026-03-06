@@ -6,21 +6,21 @@
 
 ###
 
-<div align="left" style="display: flex; gap: 12px;">
+<div align="left" style="display: flex; gap: 14px;">
   <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="40" style="filter: invert(100%);" />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="48" />
+    <img src="https://simpleicons.org/icons/discord.svg" width="40" style="filter: invert(100%);" />
   </a>
   <a href="mailto:batoolfahmi@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+    <img src="https://simpleicons.org/icons/gmail.svg" width="40" style="filter: invert(100%);" />
   </a>
   <a href="https://www.instagram.com/b4h.mi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+    <img src="https://simpleicons.org/icons/instagram.svg" width="40" style="filter: invert(100%);" />
   </a>
   <a href="https://account.microsoft.com/profile/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=microsoft" width="48" />
+    <img src="https://simpleicons.org/icons/microsoft.svg" width="40" style="filter: invert(100%);" />
   </a>
 </div>
 
