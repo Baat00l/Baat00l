@@ -6,23 +6,26 @@
 
 ###
 
-<div align="left" style="display: flex; gap: 14px;">
-  <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
-    <img src="https://simpleicons.org/icons/linkedin.svg" width="40" style="filter: invert(100%);" />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://simpleicons.org/icons/discord.svg" width="40" style="filter: invert(100%);" />
-  </a>
+<h1 align="left">Social Media</h1>
+
+<div align="left" style="display: flex; gap: 16px; align-items: center;">
   <a href="mailto:batoolfahmi@gmail.com" target="_blank">
-    <img src="https://simpleicons.org/icons/gmail.svg" width="40" style="filter: invert(100%);" />
-  </a>
-  <a href="https://www.instagram.com/b4h.mi/" target="_blank">
-    <img src="https://simpleicons.org/icons/instagram.svg" width="40" style="filter: invert(100%);" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="46" />
   </a>
   <a href="https://account.microsoft.com/profile/" target="_blank">
-    <img src="https://simpleicons.org/icons/microsoft.svg" width="40" style="filter: invert(100%);" />
+    <img src="https://skillicons.dev/icons?i=microsoft" width="46" />
+  </a>
+  <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46" />
+  </a>
+  <a href="https://www.instagram.com/b4h.mi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="46" />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="46" />
   </a>
 </div>
+
 
 
 
