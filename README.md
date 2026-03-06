@@ -78,10 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/baat00l/baat00l/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Baat00l&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
