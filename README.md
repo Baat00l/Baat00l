@@ -8,17 +8,16 @@
 
 <h1 align="left">🌐 Social Media</h1>
 
-  <div align="left">
+<div align="left">
 
   <!-- Mejl -->
   <a href="mailto:batoolfahmi4@gmail.com" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
       width="40" height="30" 
-     alt="Gmail" 
-     />
+      alt="Gmail" 
+    />
   </a>
-
-  <div align="left">
 
   <!-- Telefon (WhatsApp ikon) -->
   <a href="tel:+46739098804" target="_blank">
@@ -57,7 +56,6 @@
   </a>
 
 </div>
-
 
 ###
 
