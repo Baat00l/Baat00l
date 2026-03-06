@@ -6,28 +6,25 @@
 
 ###
 
-<h1 align="left">Social Media</h1>
+<h1 align="left">🌐 Social Media</h1>
 
-<div align="left" style="display: flex; gap: 16px; align-items: center;">
-  <a href="mailto:batoolfahmi@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="46" />
-  </a>
-  <a href="https://account.microsoft.com/profile/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=microsoft" width="46" />
-  </a>
+<div align="left">
   <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="46" />
-  </a>
-  <a href="https://www.instagram.com/b4h.mi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="46" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="46" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
-
-
-
+  <a href="https://mail.google.com/mail/u/0/?hl=sv#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/b4h.mi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://account.microsoft.com/profile/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div> 
 
 ###
 
