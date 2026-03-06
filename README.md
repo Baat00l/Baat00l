@@ -8,16 +8,7 @@
 
 <h1 align="left">🌐 Social Media</h1>
 
-<div align="left">
-
-  <!-- Telefon -->
-  <a href="tel:+46739098804" target="_blank">
-    <img 
-      src="https://www.svgrepo.com/show/532597/phone.svg" 
-      width="40" height="30" 
-      alt="Phone" 
-    />
-  </a>
+  <div align="left">
 
   <!-- Mejl -->
   <a href="mailto:batoolfahmi4@gmail.com" target="_blank">
