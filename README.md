@@ -9,24 +9,58 @@
 <h1 align="left">🌐 Social Media</h1>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-           <p><span className="icon">✉️</span><strong>E‑post:</strong> <a href="mailto:batoolfahmi4@gmail.com">batoolfahmi4@gmail.com</a></p>
 
-<p>
-  <span className="icon">📞</span>
-  <strong>Mobil:</strong>
-  <a href="tel:+46739098804">(+46) 739 098 804</a>
-</p>
-  <a href="https://www.instagram.com/b4h.mi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <!-- Mejl -->
+  <a 
+    href="mailto:batoolfahmi4@gmail.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="font-size: 28px; margin-right: 12px;"
+  >
+    ✉️
   </a>
-    
-</div> 
+
+  <!-- Telefon -->
+  <a 
+    href="tel:+46739098804"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="font-size: 28px; margin-right: 12px;"
+  >
+    📞
+  </a>
+
+  <!-- LinkedIn -->
+  <a 
+    href="https://www.linkedin.com/in/batoolfahmi/"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="font-size: 28px; margin-right: 12px;"
+  >
+    💼
+  </a>
+
+  <!-- Discord -->
+  <a 
+    href="https://discord.com/channels/@me"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="font-size: 28px; margin-right: 12px;"
+  >
+    💬
+  </a>
+
+  <!-- Instagram -->
+  <a 
+    href="https://www.instagram.com/b4h.mi/"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="font-size: 28px; margin-right: 12px;"
+  >
+    📸
+  </a>
+
+</div>
 
 ###
 
