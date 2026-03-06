@@ -13,13 +13,13 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="batoolfahmi4@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?hl=sv#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/b4h.mi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="batoolfahmi4@outlook.com" target="_blank">
+  <a href="https://account.microsoft.com/profile/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
@@ -84,7 +84,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/baat00l/baat00l/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 ###
 # 📊 GitHub Stats:
