@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">🎓 Education & Professional Focus</h2>
+<h1 align="left">🎓 Education & Professional Focus</h1>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<h1 align="left">💻 Tech Stack</h1>
 
 ###
 
@@ -81,7 +81,7 @@
 ###
 
 ###
-<h2 align="left">📊 GitHub Stats</h2>
+<h1 align="left">📊 GitHub Stats</h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=Baat00l&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Baat00l&theme=dark&hide_border=false)<br/>
