@@ -15,15 +15,17 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=sv#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+           <p><span className="icon">✉️</span><strong>E‑post:</strong> <a href="mailto:batoolfahmi4@gmail.com">batoolfahmi4@gmail.com</a></p>
+
+<p>
+  <span className="icon">📞</span>
+  <strong>Mobil:</strong>
+  <a href="tel:+46739098804">(+46) 739 098 804</a>
+</p>
   <a href="https://www.instagram.com/b4h.mi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://account.microsoft.com/profile/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+    
 </div> 
 
 ###
