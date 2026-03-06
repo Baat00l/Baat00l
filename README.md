@@ -21,10 +21,20 @@
 
   <!-- Mejl -->
   <a href="mailto:batoolfahmi4@gmail.com" target="_blank">
-    <img 
-      src="https://www.svgrepo.com/show/223047/email.svg" 
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
       width="40" height="30" 
-      alt="Email" 
+     alt="Gmail" 
+     />
+  </a>
+
+  <div align="left">
+
+  <!-- Telefon (WhatsApp ikon) -->
+  <a href="tel:+46739098804" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" 
+      width="40" height="30" 
+      alt="Phone" 
     />
   </a>
 
