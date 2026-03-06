@@ -9,19 +9,40 @@
 <h1 align="left">🌐 Social Media</h1>
 
 <div align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
+
+  <!-- Telefon -->
+  <a href="tel:+46739098804" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-      width="40" height="30" alt="LinkedIn" 
+      src="https://www.svgrepo.com/show/532597/phone.svg" 
+      width="40" height="30" 
+      alt="Phone" 
+    />
+  </a>
+
+  <!-- Mejl -->
+  <a href="mailto:batoolfahmi4@gmail.com" target="_blank">
+    <img 
+      src="https://www.svgrepo.com/show/223047/email.svg" 
+      width="40" height="30" 
+      alt="Email" 
     />
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/users/bat.ool" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" 
-      width="40" height="30" alt="Discord" 
+      src="https://www.svgrepo.com/show/353655/discord-icon.svg" 
+      width="40" height="30" 
+      alt="Discord" 
+    />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/batoolfahmi/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+      width="40" height="30" 
+      alt="LinkedIn" 
     />
   </a>
 
@@ -29,25 +50,11 @@
   <a href="https://www.instagram.com/b4h.mi/" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" 
-      width="40" height="30" alt="Instagram" 
+      width="40" height="30" 
+      alt="Instagram" 
     />
   </a>
 
-  <!-- Email -->
-  <a href="mailto:batoolfahmi4@gmail.com" target="_blank">
-    <img 
-      src="https://www.svgrepo.com/show/223047/email.svg" 
-      width="40" height="30" alt="Email" 
-    />
-  </a>
-
-  <!-- Phone -->
-  <a href="tel:+46739098804" target="_blank">
-    <img 
-      src="https://www.svgrepo.com/show/532597/phone.svg" 
-      width="40" height="30" alt="Phone" 
-    />
-  </a>
 </div>
 
 
