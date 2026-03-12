@@ -63,7 +63,26 @@
 
 ###
 
-<p align="left">Web Development — TUC Yrkeshögskola (2024–2026)  <br>Focused studies shaping both my technical foundation and creative approach:<br><br>- Design & UX — user‑centered design, prototyping, accessibility<br><br>- HTML, CSS & Agile Methods — responsive interfaces, modern development workflows<br><br>- Fundamental & Advanced Programming — problem‑solving, structure, clean code practices<br><br>- JavaScript 1 & 2 — DOM manipulation, APIs, advanced JavaScript patterns<br><br>- Publishing Tools — CMS, deployment, version control<br><br>- Communication — professional collaboration and presentation skills<br><br>- LIA 1 & LIA 2 — hands‑on industry experience in real development environments<br><br>- Final Thesis Project — independent project with real‑world application</p>
+<p align="left">
+Web Development — TUC Yrkeshögskola (2024–2026) <br>
+Focused studies shaping both my technical foundation and creative approach:<br><br>
+
+⭐ Design & UX — user‑centered design, prototyping, accessibility<br><br>
+
+⭐ HTML, CSS & Agile Methods — responsive interfaces, modern development workflows<br><br>
+
+⭐ Fundamental & Advanced Programming — problem‑solving, structure, clean code practices<br><br>
+
+⭐ JavaScript 1 & 2 — DOM manipulation, APIs, advanced JavaScript patterns<br><br>
+
+⭐ Publishing Tools — CMS, deployment, version control<br><br>
+
+⭐ Communication — professional collaboration and presentation skills<br><br>
+
+⭐ LIA 1 & LIA 2 — hands‑on industry experience in real development environments<br><br>
+
+⭐ Final Thesis Project — independent project with real‑world application
+</p>
 
 ###
 
